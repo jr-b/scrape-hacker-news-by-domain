@@ -1,4 +1,4 @@
-name: Scrape Hacker News
+name: Scrape Radio-Canada
 
 on:
   push:
