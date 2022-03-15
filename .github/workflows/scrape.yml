@@ -37,12 +37,8 @@ jobs:
     - name: Scrape
       run: |        
         shot-scraper javascript \
-          "https://news.ycombinator.com/from?site=simonwillison.net" \
-          -i scrape.js -o simonwillison-net.json
-        sleep 5
-        shot-scraper javascript \
-          "https://news.ycombinator.com/from?site=datasette.io" \
-          -i scrape.js -o datasette-io.json
+          "https://ici.radio-canada.ca" \
+          -i scrape.js -o src.json
     - name: Commit and push
       run: |-
         git config user.name "Automated"
