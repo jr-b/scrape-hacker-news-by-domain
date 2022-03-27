@@ -1,5 +1,5 @@
-Array.from(document.querySelectorAll('.first-lineup .nb-item--7 li:not(.related-item)')).map(el => {
-  const title = el.querySelector('a.title-link').innerText;
+Array.from(document.querySelectorAll('a.card')).map(el => {
+  const title = el.querySelector('.card-content').innerText;
   // const points = parseInt(el.nextSibling.querySelector('.score').innerText);
   // const url = el.querySelector('a.titlelink').href;
   // const dt = el.nextSibling.querySelector('.age').title;

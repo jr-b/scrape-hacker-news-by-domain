@@ -37,7 +37,7 @@ jobs:
     - name: Scrape
       run: |        
         shot-scraper javascript \
-          "https://ici.radio-canada.ca" \
+          "https://www.ecohabitation.com/trouver/proprietes-a-vendre/" \
           -i scrape.js -o src.json
     - name: Commit and push
       run: |-
