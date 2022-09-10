@@ -38,7 +38,7 @@ jobs:
       run: |        
         shot-scraper javascript \
           "https://ici.radio-canada.ca/medias-numeriques/carrieres/" \
-          -i scrape.js -o src.json
+          -i filter.js -o jobs.json
     - name: Commit and push
       run: |-
         git config user.name "Automated"
