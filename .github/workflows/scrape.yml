@@ -10,7 +10,7 @@ on:
 jobs:
   shot-scraper:
     env: 
-      commitid: ${{ github.event.head_commit }}
+      commitid: ${{ github.event.head_commit.message }}
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
