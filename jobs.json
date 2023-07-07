@@ -20,6 +20,11 @@
         "descrip": "La mobilit\u00e9 est ton mode de vie et Kotlin n'a plus de secrets pour toi? Joins-toi \u00e0 l\u2019\u00e9quipe de mobilit\u00e9 des M\u00e9dias num\u00e9riques de Radio-Canada et participe \u00e0 l\u2019\u00e9volution des applications ICI Tou.tv, OHdio ou RC Info. Nous t'attendons! Navigue dans le portail pour en apprendre plus."
     },
     {
+        "title": "Directeur.trice, Donn\u00e9es et analytique",
+        "info": "La solide et dynamique \u00e9quipe d'intelligence d'affaires cherche un.e directeur.trice, Donn\u00e9es et analytique pour d\u00e9velopper et mener \u00e0 terme une strat\u00e9gie \u00e9volutive, menant Radio-Canada vers une prise de d\u00e9cision inform\u00e9e par les donn\u00e9es. Il ne manque que toi pour passer au prochain niveau!",
+        "descrip": "La solide et dynamique \u00e9quipe d'intelligence d'affaires cherche un.e directeur.trice, Donn\u00e9es et analytique pour d\u00e9velopper et mener \u00e0 terme une strat\u00e9gie \u00e9volutive, menant Radio-Canada vers une prise de d\u00e9cision inform\u00e9e par les donn\u00e9es. Il ne manque que toi pour passer au prochain niveau!"
+    },
+    {
         "title": "Premier.\u00e8re d\u00e9veloppeur.euse Frontend/React Native",
         "info": "Tu as une expertise en React, Styled-Components et NextJS ? Tu es enthousiaste \u00e0 l'id\u00e9e d\u2019apprendre ou d\u2019am\u00e9liorer tes comp\u00e9tences avec React Native? Tu es convaincu.e que l'accessibilit\u00e9 du web est indispensable pour fournir une exp\u00e9rience utilisateur optimale ? Si c'est le cas, l'\u00e9quipe des M\u00e9dias num\u00e9riques de Radio-Canada recherche des d\u00e9veloppeurs Front-End avec un int\u00e9r\u00eat pour le d\u00e9veloppement mobile sous React-Native. Explore notre portail pour en savoir plus sur notre quotidien",
         "descrip": "Tu as une expertise en React, Styled-Components et NextJS ? Tu es enthousiaste \u00e0 l'id\u00e9e d\u2019apprendre ou d\u2019am\u00e9liorer tes comp\u00e9tences avec React Native? Tu es convaincu.e que l'accessibilit\u00e9 du web est indispensable pour fournir une exp\u00e9rience utilisateur optimale ? Si c'est le cas, l'\u00e9quipe des M\u00e9dias num\u00e9riques de Radio-Canada recherche des d\u00e9veloppeurs Front-End avec un int\u00e9r\u00eat pour le d\u00e9veloppement mobile sous React-Native. Explore notre portail pour en savoir plus sur notre quotidien"
@@ -30,14 +35,9 @@
         "descrip": "Les produits Atlassian te passionnent? Tu aimes \u00eatre au service des coll\u00e8gues et offrir ton expertise pour mettre en place de meilleures pratiques d'utilisation en plus de solutionner des probl\u00e8mes concrets? L\u2019administrateur.trice des outils de collaboration d\u2019Atlassian est responsable de conseiller, piloter et soutenir toute initiative en lien avec Jira et Confluence pour faciliter la gestion quotidienne des \u00e9quipes de production des M\u00e9dias num\u00e9riques. Joins-toi \u00e0 notre \u00e9quipe!"
     },
     {
-        "title": "Directeur.trice, Donn\u00e9es et analytique",
-        "info": "La solide et dynamique \u00e9quipe d'intelligence d'affaires cherche un.e directeur.trice, Donn\u00e9es et analytique pour d\u00e9velopper et mener \u00e0 terme une strat\u00e9gie \u00e9volutive, menant Radio-Canada vers une prise de d\u00e9cision inform\u00e9e par les donn\u00e9es. Il ne manque que toi pour passer au prochain niveau!",
-        "descrip": "La solide et dynamique \u00e9quipe d'intelligence d'affaires cherche un.e directeur.trice, Donn\u00e9es et analytique pour d\u00e9velopper et mener \u00e0 terme une strat\u00e9gie \u00e9volutive, menant Radio-Canada vers une prise de d\u00e9cision inform\u00e9e par les donn\u00e9es. Il ne manque que toi pour passer au prochain niveau!"
-    },
-    {
-        "title": "Scientifique de donn\u00e9es",
-        "info": "Tu as envie de mettre \u00e0 profit ton expertise en d\u00e9veloppement de mod\u00e8les d\u2019apprentissage machine afin d\u2019am\u00e9liorer l\u2019exp\u00e9rience de millions de Canadiens? Tu es passionn\u00e9 par l\u2019analyse massive de donn\u00e9es afin d\u2019appuyer les prises de d\u00e9cisions? \u00c9cris-nous! Nous d\u00e9sirons avoir de tes nouvelles! Navigue dans le portail pour en apprendre davantage.",
-        "descrip": "Tu as envie de mettre \u00e0 profit ton expertise en d\u00e9veloppement de mod\u00e8les d\u2019apprentissage machine afin d\u2019am\u00e9liorer l\u2019exp\u00e9rience de millions de Canadiens? Tu es passionn\u00e9 par l\u2019analyse massive de donn\u00e9es afin d\u2019appuyer les prises de d\u00e9cisions? \u00c9cris-nous! Nous d\u00e9sirons avoir de tes nouvelles! Navigue dans le portail pour en apprendre davantage."
+        "title": "Premier.\u00e8re analyste, Recherche et exp\u00e9rience utilisateur",
+        "info": "\u00c9tudes UX, tests A/B, prototypage, entrevues, observation, quali vs quanti... si ces activit\u00e9s d\u00e9peignent ton quotidien professionnel, cela veut dire que tu es l\u2019analyste en recherche UX que nous souhaitons accueillir dans notre famille de produits Info! Tu auras ainsi le plaisir de d\u00e9finir, guider et conduire l\u2019une et l\u2019autre de ces activit\u00e9s UX dans nos projets num\u00e9riques.",
+        "descrip": "\u00c9tudes UX, tests A/B, prototypage, entrevues, observation, quali vs quanti... si ces activit\u00e9s d\u00e9peignent ton quotidien professionnel, cela veut dire que tu es l\u2019analyste en recherche UX que nous souhaitons accueillir dans notre famille de produits Info! Tu auras ainsi le plaisir de d\u00e9finir, guider et conduire l\u2019une et l\u2019autre de ces activit\u00e9s UX dans nos projets num\u00e9riques."
     },
     {
         "title": "Candidature spontan\u00e9e",
