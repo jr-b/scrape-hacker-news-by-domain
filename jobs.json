@@ -1,40 +1,5 @@
 [
     {
-        "title": "Premier.i\u00e8re d\u00e9veloppeur.euse Backend",
-        "info": "Tu es passionn\u00e9 par les technologies ASP.NET Core, NodeJS, GraphQL, MSSQL, MongoDB ou Elastic ? L'\u00e9quipe des M\u00e9dias Num\u00e9riques de Radio-Canada recherche des d\u00e9veloppeurs Backend comme toi pour concevoir des architectures performantes pour toutes nos plateformes. Tu auras la possibilit\u00e9 de travailler sur des projets passionnants tels que l'\u00e9volution de notre processus d'authentification unique, notre plateforme d'abonnement ou encore notre architecture de gestion de contenu. Explore notre portail pour en savoir plus sur notre quotidien!",
-        "descrip": "Tu es passionn\u00e9 par les technologies ASP.NET Core, NodeJS, GraphQL, MSSQL, MongoDB ou Elastic ? L'\u00e9quipe des M\u00e9dias Num\u00e9riques de Radio-Canada recherche des d\u00e9veloppeurs Backend comme toi pour concevoir des architectures performantes pour toutes nos plateformes. Tu auras la possibilit\u00e9 de travailler sur des projets passionnants tels que l'\u00e9volution de notre processus d'authentification unique, notre plateforme d'abonnement ou encore notre architecture de gestion de contenu. Explore notre portail pour en savoir plus sur notre quotidien!"
-    },
-    {
-        "title": "Premier.\u00e8re d\u00e9veloppeur.euse Full Stack",
-        "info": "Tu d\u00e9veloppes des solutions performantes sous NodeJS, MongoDB et GraphQL? Tu aimes travailler avec React et tu connais les avantages de Redux/RTK ? Tu es motiv\u00e9.e \u00e0 apprendre ou \u00e0 am\u00e9liorer tes comp\u00e9tences en TypeScript ? Si oui, l'\u00e9quipe des M\u00e9dias num\u00e9riques de Radio-Canada cherche des d\u00e9veloppeur.euse.s Full Stack comme toi pour concevoir des API de pr\u00e9sentation pour toutes nos plateformes. Explore notre portail pour d\u00e9couvrir notre quotidien!",
-        "descrip": "Tu d\u00e9veloppes des solutions performantes sous NodeJS, MongoDB et GraphQL? Tu aimes travailler avec React et tu connais les avantages de Redux/RTK ? Tu es motiv\u00e9.e \u00e0 apprendre ou \u00e0 am\u00e9liorer tes comp\u00e9tences en TypeScript ? Si oui, l'\u00e9quipe des M\u00e9dias num\u00e9riques de Radio-Canada cherche des d\u00e9veloppeur.euse.s Full Stack comme toi pour concevoir des API de pr\u00e9sentation pour toutes nos plateformes. Explore notre portail pour d\u00e9couvrir notre quotidien!"
-    },
-    {
-        "title": "Premier.i\u00e8re d\u00e9veloppeur.euse Android",
-        "info": "La mobilit\u00e9 est ton mode de vie et Kotlin n'a plus de secrets pour toi? Joins-toi \u00e0 l\u2019\u00e9quipe de mobilit\u00e9 des M\u00e9dias num\u00e9riques de Radio-Canada et participe \u00e0 l\u2019\u00e9volution des applications ICI Tou.tv, OHdio ou RC Info. Nous t'attendons! Navigue dans le portail pour en apprendre plus.",
-        "descrip": "La mobilit\u00e9 est ton mode de vie et Kotlin n'a plus de secrets pour toi? Joins-toi \u00e0 l\u2019\u00e9quipe de mobilit\u00e9 des M\u00e9dias num\u00e9riques de Radio-Canada et participe \u00e0 l\u2019\u00e9volution des applications ICI Tou.tv, OHdio ou RC Info. Nous t'attendons! Navigue dans le portail pour en apprendre plus."
-    },
-    {
-        "title": "Directeur.trice, Donn\u00e9es et analytique",
-        "info": "La solide et dynamique \u00e9quipe d'intelligence d'affaires cherche un.e directeur.trice, Donn\u00e9es et analytique pour d\u00e9velopper et mener \u00e0 terme une strat\u00e9gie \u00e9volutive, menant Radio-Canada vers une prise de d\u00e9cision inform\u00e9e par les donn\u00e9es. Il ne manque que toi pour passer au prochain niveau!",
-        "descrip": "La solide et dynamique \u00e9quipe d'intelligence d'affaires cherche un.e directeur.trice, Donn\u00e9es et analytique pour d\u00e9velopper et mener \u00e0 terme une strat\u00e9gie \u00e9volutive, menant Radio-Canada vers une prise de d\u00e9cision inform\u00e9e par les donn\u00e9es. Il ne manque que toi pour passer au prochain niveau!"
-    },
-    {
-        "title": "Premier.\u00e8re d\u00e9veloppeur.euse Frontend/React Native",
-        "info": "Tu as une expertise en React, Styled-Components et NextJS ? Tu es enthousiaste \u00e0 l'id\u00e9e d\u2019apprendre ou d\u2019am\u00e9liorer tes comp\u00e9tences avec React Native? Tu es convaincu.e que l'accessibilit\u00e9 du web est indispensable pour fournir une exp\u00e9rience utilisateur optimale ? Si c'est le cas, l'\u00e9quipe des M\u00e9dias num\u00e9riques de Radio-Canada recherche des d\u00e9veloppeurs Front-End avec un int\u00e9r\u00eat pour le d\u00e9veloppement mobile sous React-Native. Explore notre portail pour en savoir plus sur notre quotidien",
-        "descrip": "Tu as une expertise en React, Styled-Components et NextJS ? Tu es enthousiaste \u00e0 l'id\u00e9e d\u2019apprendre ou d\u2019am\u00e9liorer tes comp\u00e9tences avec React Native? Tu es convaincu.e que l'accessibilit\u00e9 du web est indispensable pour fournir une exp\u00e9rience utilisateur optimale ? Si c'est le cas, l'\u00e9quipe des M\u00e9dias num\u00e9riques de Radio-Canada recherche des d\u00e9veloppeurs Front-End avec un int\u00e9r\u00eat pour le d\u00e9veloppement mobile sous React-Native. Explore notre portail pour en savoir plus sur notre quotidien"
-    },
-    {
-        "title": "Administrateur.trice Atlassian",
-        "info": "Les produits Atlassian te passionnent? Tu aimes \u00eatre au service des coll\u00e8gues et offrir ton expertise pour mettre en place de meilleures pratiques d'utilisation en plus de solutionner des probl\u00e8mes concrets? L\u2019administrateur.trice des outils de collaboration d\u2019Atlassian est responsable de conseiller, piloter et soutenir toute initiative en lien avec Jira et Confluence pour faciliter la gestion quotidienne des \u00e9quipes de production des M\u00e9dias num\u00e9riques. Joins-toi \u00e0 notre \u00e9quipe!",
-        "descrip": "Les produits Atlassian te passionnent? Tu aimes \u00eatre au service des coll\u00e8gues et offrir ton expertise pour mettre en place de meilleures pratiques d'utilisation en plus de solutionner des probl\u00e8mes concrets? L\u2019administrateur.trice des outils de collaboration d\u2019Atlassian est responsable de conseiller, piloter et soutenir toute initiative en lien avec Jira et Confluence pour faciliter la gestion quotidienne des \u00e9quipes de production des M\u00e9dias num\u00e9riques. Joins-toi \u00e0 notre \u00e9quipe!"
-    },
-    {
-        "title": "Premier.\u00e8re analyste assurance qualit\u00e9",
-        "info": "Les M\u00e9dias num\u00e9riques de Radio-Canada sont \u00e0 la recherche d\u2019un.e analyste QA. Tu souhaites int\u00e9grer une \u00e9quipe de d\u00e9veloppement dynamique de plus de 100 d\u00e9veloppeurs web, Backend, mobile et 25 QA? Tu aimes tester et valider des solutions novatrices afin de faire rayonner des contenus? Joins-toi \u00e0 notre \u00e9quipe! Navigue dans le portail pour en apprendre davantage sur nous.",
-        "descrip": "Les M\u00e9dias num\u00e9riques de Radio-Canada sont \u00e0 la recherche d\u2019un.e analyste QA. Tu souhaites int\u00e9grer une \u00e9quipe de d\u00e9veloppement dynamique de plus de 100 d\u00e9veloppeurs web, Backend, mobile et 25 QA? Tu aimes tester et valider des solutions novatrices afin de faire rayonner des contenus? Joins-toi \u00e0 notre \u00e9quipe! Navigue dans le portail pour en apprendre davantage sur nous."
-    },
-    {
         "title": "Candidature spontan\u00e9e",
         "info": "D\u00e9veloppement",
         "descrip": "Nous sommes r\u00e9guli\u00e8rement \u00e0 la recherche de candidats pour pourvoir des postes de d\u00e9veloppeurs. Si tu ma\u00eetrises les technologies .NET, React, Redux, CSS/Less, Swift, Xcode ou Kotlin, tu es la perle rare que nous cherchons! N'h\u00e9site plus! Joins-toi \u00e0 notre \u00e9quipe!"
