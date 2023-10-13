@@ -1,5 +1,15 @@
 [
     {
+        "title": "Premier.\u00e8re architecte, plateforme .ca",
+        "info": "Radio-Canada.ca regroupe les contenus de l\u2019info, la radio, et la t\u00e9l\u00e9, produit par la Soci\u00e9t\u00e9. \u00c0 titre d\u2019architecte, tu concevras et arrimeras l\u2019int\u00e9gration de plusieurs syst\u00e8mes de donn\u00e9es qui interagissent pour propulser cette offre. Tu travailleras avec des technologies comme GraphQL, React, .NET, Redis, Elastic Search, et plus encore. Tu seras appuy\u00e9 par des \u00e9quipes sp\u00e9cialis\u00e9es en syst\u00e8mes de gestion de contenu et de streaming. Navigue dans le portail pour en apprendre davantage sur notre \u00e9quipe.",
+        "descrip": "Radio-Canada.ca regroupe les contenus de l\u2019info, la radio, et la t\u00e9l\u00e9, produit par la Soci\u00e9t\u00e9. \u00c0 titre d\u2019architecte, tu concevras et arrimeras l\u2019int\u00e9gration de plusieurs syst\u00e8mes de donn\u00e9es qui interagissent pour propulser cette offre. Tu travailleras avec des technologies comme GraphQL, React, .NET, Redis, Elastic Search, et plus encore. Tu seras appuy\u00e9 par des \u00e9quipes sp\u00e9cialis\u00e9es en syst\u00e8mes de gestion de contenu et de streaming. Navigue dans le portail pour en apprendre davantage sur notre \u00e9quipe."
+    },
+    {
+        "title": "Premier.\u00e8re analyste assurance qualit\u00e9",
+        "info": "Les M\u00e9dias num\u00e9riques de Radio-Canada sont \u00e0 la recherche d\u2019un.e analyste QA. Tu souhaites int\u00e9grer une \u00e9quipe de d\u00e9veloppement dynamique de plus de 100 d\u00e9veloppeurs web, Backend, mobile et 25 QA? Tu aimes tester et valider des solutions novatrices afin de faire rayonner des contenus? Joins-toi \u00e0 notre \u00e9quipe! Navigue dans le portail pour en apprendre davantage sur nous.",
+        "descrip": "Les M\u00e9dias num\u00e9riques de Radio-Canada sont \u00e0 la recherche d\u2019un.e analyste QA. Tu souhaites int\u00e9grer une \u00e9quipe de d\u00e9veloppement dynamique de plus de 100 d\u00e9veloppeurs web, Backend, mobile et 25 QA? Tu aimes tester et valider des solutions novatrices afin de faire rayonner des contenus? Joins-toi \u00e0 notre \u00e9quipe! Navigue dans le portail pour en apprendre davantage sur nous."
+    },
+    {
         "title": "Candidature spontan\u00e9e",
         "info": "D\u00e9veloppement",
         "descrip": "Nous sommes r\u00e9guli\u00e8rement \u00e0 la recherche de candidats pour pourvoir des postes de d\u00e9veloppeurs. Si tu ma\u00eetrises les technologies .NET, React, Redux, CSS/Less, Swift, Xcode ou Kotlin, tu es la perle rare que nous cherchons! N'h\u00e9site plus! Joins-toi \u00e0 notre \u00e9quipe!"
