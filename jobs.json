@@ -1,55 +1,5 @@
 [
     {
-        "title": "Premier.i\u00e8re d\u00e9veloppeur.euse Android",
-        "info": "La mobilit\u00e9 est ton mode de vie et Kotlin n'a plus de secrets pour toi? Joins-toi \u00e0 l\u2019\u00e9quipe de mobilit\u00e9 des M\u00e9dias num\u00e9riques de Radio-Canada et participe \u00e0 l\u2019\u00e9volution des applications ICI Tou.tv, OHdio ou RC Info. Nous t'attendons! Navigue dans le portail pour en apprendre plus.",
-        "descrip": "La mobilit\u00e9 est ton mode de vie et Kotlin n'a plus de secrets pour toi? Joins-toi \u00e0 l\u2019\u00e9quipe de mobilit\u00e9 des M\u00e9dias num\u00e9riques de Radio-Canada et participe \u00e0 l\u2019\u00e9volution des applications ICI Tou.tv, OHdio ou RC Info. Nous t'attendons! Navigue dans le portail pour en apprendre plus."
-    },
-    {
-        "title": "Premier.\u00e8re d\u00e9veloppeur.euse Frontend",
-        "info": "Tu as une expertise en React, Styled-Components et/ou Tailwind ? Tu es convaincu.e que l'accessibilit\u00e9 du web est indispensable pour fournir une exp\u00e9rience utilisateur optimale ? Tu es enthousiaste \u00e0 l'id\u00e9e d'am\u00e9liorer tes comp\u00e9tences en TypeScript ? Si c'est le cas, l'\u00e9quipe des M\u00e9dias num\u00e9riques de Radio-Canada cherche des d\u00e9veloppeur.euse.s Frontend comme toi pour concevoir des composantes web pour toutes nos plateformes. Navigue dans notre portail pour d\u00e9couvrir notre quotidien!",
-        "descrip": "Tu as une expertise en React, Styled-Components et/ou Tailwind ? Tu es convaincu.e que l'accessibilit\u00e9 du web est indispensable pour fournir une exp\u00e9rience utilisateur optimale ? Tu es enthousiaste \u00e0 l'id\u00e9e d'am\u00e9liorer tes comp\u00e9tences en TypeScript ? Si c'est le cas, l'\u00e9quipe des M\u00e9dias num\u00e9riques de Radio-Canada cherche des d\u00e9veloppeur.euse.s Frontend comme toi pour concevoir des composantes web pour toutes nos plateformes. Navigue dans notre portail pour d\u00e9couvrir notre quotidien!"
-    },
-    {
-        "title": "Premier.\u00e8re d\u00e9veloppeur.euse, iOS",
-        "info": "Tu souhaites jouer un r\u00f4le cl\u00e9 dans la cr\u00e9ation des produits num\u00e9riques de Radio-Canada? On est l\u00e0 pour t\u2019aider \u00e0 r\u00e9ussir cette mission chez nous! Tu collaboreras avec une grande \u00e9quipe multidisciplinaire tr\u00e8s talentueuse pour passer au prochain niveau!",
-        "descrip": "Tu souhaites jouer un r\u00f4le cl\u00e9 dans la cr\u00e9ation des produits num\u00e9riques de Radio-Canada? On est l\u00e0 pour t\u2019aider \u00e0 r\u00e9ussir cette mission chez nous! Tu collaboreras avec une grande \u00e9quipe multidisciplinaire tr\u00e8s talentueuse pour passer au prochain niveau!"
-    },
-    {
-        "title": "Premier.i\u00e8re d\u00e9veloppeur.euse Backend",
-        "info": "Tu es passionn\u00e9 par les technologies ASP.NET Core, NodeJS, GraphQL, MSSQL, MongoDB ou Elastic ? L'\u00e9quipe des M\u00e9dias Num\u00e9riques de Radio-Canada recherche des d\u00e9veloppeurs Backend comme toi pour concevoir des architectures performantes pour toutes nos plateformes. Tu auras la possibilit\u00e9 de travailler sur des projets passionnants tels que l'\u00e9volution de notre processus d'authentification unique, notre plateforme d'abonnement ou encore notre architecture de gestion de contenu. Explore notre portail pour en savoir plus sur notre quotidien!",
-        "descrip": "Tu es passionn\u00e9 par les technologies ASP.NET Core, NodeJS, GraphQL, MSSQL, MongoDB ou Elastic ? L'\u00e9quipe des M\u00e9dias Num\u00e9riques de Radio-Canada recherche des d\u00e9veloppeurs Backend comme toi pour concevoir des architectures performantes pour toutes nos plateformes. Tu auras la possibilit\u00e9 de travailler sur des projets passionnants tels que l'\u00e9volution de notre processus d'authentification unique, notre plateforme d'abonnement ou encore notre architecture de gestion de contenu. Explore notre portail pour en savoir plus sur notre quotidien!"
-    },
-    {
-        "title": "Chef ou cheffe analyste, Audience et Activation",
-        "info": "Tu aimes te positionner comme un partenaire des intervenants cl\u00e9s et des d\u00e9cideurs pour d\u00e9finir et soutenir les besoins existants et \u00e0 venir en audience et en analyse de donn\u00e9es? R\u00e9pondre \u00e0 des questions complexes touchant les segmentations et l'analyse te passionne? Alors, viens travailler avec l'\u00e9quipe qui met en place les meilleures pratiques en termes de collecte, de cat\u00e9gorisation et d\u2019activation de la donn\u00e9e.",
-        "descrip": "Tu aimes te positionner comme un partenaire des intervenants cl\u00e9s et des d\u00e9cideurs pour d\u00e9finir et soutenir les besoins existants et \u00e0 venir en audience et en analyse de donn\u00e9es? R\u00e9pondre \u00e0 des questions complexes touchant les segmentations et l'analyse te passionne? Alors, viens travailler avec l'\u00e9quipe qui met en place les meilleures pratiques en termes de collecte, de cat\u00e9gorisation et d\u2019activation de la donn\u00e9e."
-    },
-    {
-        "title": "Premier.\u00e8re d\u00e9veloppeur.euse en traitement du langage naturel (NLP)",
-        "info": "Nous recherchons un.e d\u00e9veloppeur.euse en traitement du langage naturel (NLP) passionn\u00e9.e! Viens travailler dans notre cellule d'innovation en IA, o\u00f9 tu joueras un r\u00f4le cl\u00e9 dans la conception et le d\u00e9veloppement de solutions innovantes qui transformeront nos produits et services.",
-        "descrip": "Nous recherchons un.e d\u00e9veloppeur.euse en traitement du langage naturel (NLP) passionn\u00e9.e! Viens travailler dans notre cellule d'innovation en IA, o\u00f9 tu joueras un r\u00f4le cl\u00e9 dans la conception et le d\u00e9veloppement de solutions innovantes qui transformeront nos produits et services."
-    },
-    {
-        "title": "Premier.\u00e8re d\u00e9veloppeur.euse Full-Stack dans le domaine IA",
-        "info": "Ton mandat consistera \u00e0 concevoir, d\u00e9velopper et maintenir des formulaires interactifs et performants au sein de nos applications web. Tu travailleras \u00e9troitement avec les \u00e9quipes de design et de backend pour assurer une int\u00e9gration fluide et une exp\u00e9rience utilisateur optimale. \u00c7a t'int\u00e9resse? Viens nous rencontrer!",
-        "descrip": "Ton mandat consistera \u00e0 concevoir, d\u00e9velopper et maintenir des formulaires interactifs et performants au sein de nos applications web. Tu travailleras \u00e9troitement avec les \u00e9quipes de design et de backend pour assurer une int\u00e9gration fluide et une exp\u00e9rience utilisateur optimale. \u00c7a t'int\u00e9resse? Viens nous rencontrer!"
-    },
-    {
-        "title": "Premier.\u00e8re d\u00e9veloppeur.euse apprentissage machine",
-        "info": "Tu souhaites mettre \u00e0 profit ton expertise en d\u00e9veloppement de mod\u00e8les d'apprentissage machine afin d'impacter positivement l'exp\u00e9rience de millions de Canadiens ? Tu as de l'exp\u00e9rience en d\u00e9veloppement et mise en production d'engins de recommandations de contenu ? Nous d\u00e9sirons avoir de tes nouvelles !",
-        "descrip": "Tu souhaites mettre \u00e0 profit ton expertise en d\u00e9veloppement de mod\u00e8les d'apprentissage machine afin d'impacter positivement l'exp\u00e9rience de millions de Canadiens ? Tu as de l'exp\u00e9rience en d\u00e9veloppement et mise en production d'engins de recommandations de contenu ? Nous d\u00e9sirons avoir de tes nouvelles !"
-    },
-    {
-        "title": "Premier.\u00e8re d\u00e9veloppeur.euse de m\u00e9gadonn\u00e9es (Big data)",
-        "info": "Tu d\u00e9sires mettre \u00e0 profit ton expertise en m\u00e9gadonn\u00e9es avec les technologies Microsoft Azure Databricks afin d\u2019assister nos diff\u00e9rents secteurs d\u2019activit\u00e9s dans leur prise de d\u00e9cision? Tu souhaites travailler \u00e9troitement avec nos \u00e9quipes afin de d\u00e9terminer leurs besoins et proposer des solutions de mani\u00e8re proactive? Nous d\u00e9sirons te rencontrer! Parcours le portail pour en savoir davantage sur nous!",
-        "descrip": "Tu d\u00e9sires mettre \u00e0 profit ton expertise en m\u00e9gadonn\u00e9es avec les technologies Microsoft Azure Databricks afin d\u2019assister nos diff\u00e9rents secteurs d\u2019activit\u00e9s dans leur prise de d\u00e9cision? Tu souhaites travailler \u00e9troitement avec nos \u00e9quipes afin de d\u00e9terminer leurs besoins et proposer des solutions de mani\u00e8re proactive? Nous d\u00e9sirons te rencontrer! Parcours le portail pour en savoir davantage sur nous!"
-    },
-    {
-        "title": "Premier.\u00e8re d\u00e9veloppeur.euse Full-Stack",
-        "info": "Tu d\u00e9veloppes des solutions performantes sous NodeJS, MongoDB et GraphQL? Tu aimes travailler avec React et tu connais les avantages de Redux/RTK ? Tu es motiv\u00e9.e \u00e0 apprendre ou \u00e0 am\u00e9liorer tes comp\u00e9tences en TypeScript ? Si oui, l'\u00e9quipe des M\u00e9dias num\u00e9riques de Radio-Canada cherche des d\u00e9veloppeur.euse.s Full Stack comme toi pour concevoir des API de pr\u00e9sentation pour toutes nos plateformes. Explore notre portail pour d\u00e9couvrir notre quotidien!",
-        "descrip": "Tu d\u00e9veloppes des solutions performantes sous NodeJS, MongoDB et GraphQL? Tu aimes travailler avec React et tu connais les avantages de Redux/RTK ? Tu es motiv\u00e9.e \u00e0 apprendre ou \u00e0 am\u00e9liorer tes comp\u00e9tences en TypeScript ? Si oui, l'\u00e9quipe des M\u00e9dias num\u00e9riques de Radio-Canada cherche des d\u00e9veloppeur.euse.s Full Stack comme toi pour concevoir des API de pr\u00e9sentation pour toutes nos plateformes. Explore notre portail pour d\u00e9couvrir notre quotidien!"
-    },
-    {
         "title": "Candidature spontan\u00e9e",
         "info": "D\u00e9veloppement",
         "descrip": "Nous sommes r\u00e9guli\u00e8rement \u00e0 la recherche de candidats pour pourvoir des postes de d\u00e9veloppeurs. Si tu ma\u00eetrises les technologies .NET, React, Redux, CSS/Less, Swift, Xcode ou Kotlin, tu es la perle rare que nous cherchons! N'h\u00e9site plus! Joins-toi \u00e0 notre \u00e9quipe!"
